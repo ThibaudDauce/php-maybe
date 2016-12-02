@@ -1,7 +1,10 @@
 {
     "name": "thibaud-dauce/php-maybe",
     "description": "Maybe type in PHP",
+    "version": "1.0.0",
     "type": "library",
+    "homepage": "https://github.com/ThibaudDauce/php-maybe",
+    "keywords": ["maybe", "null"],
     "license": "GPL-3.0+",
     "authors": [
         {
